@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android Anko</string>
+    <string name="contacts_list">Contacts List</string>
+    <string name="fetch_contacts_failure">Could not fetch contacts. </string>
 </resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="list_contact_appbar" />
+    <item type="id" name="list_contact_toolbar" />
+    <item type="id" name="list_contact_recycler_view" />
+    <item type="id" name="list_contact_swipe_layout" />
+
+    <item type="id" name="list_contact_item_image" />
+    <item type="id" name="list_contact_item_txt_name" />
+</resources>
